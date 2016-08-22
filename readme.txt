@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 
 test brach changed
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
